@@ -1,0 +1,6 @@
+{
+  "name": "BibleStudyFlow",
+  "description": "Aplicação para estudantes e cristãos organizarem e atingirem seus objetivos de estudo bíblico com prazos e status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
